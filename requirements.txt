@@ -1,0 +1,4 @@
+pyModbusTCP
+Flask
+flask_httpauth
+pyngrok
